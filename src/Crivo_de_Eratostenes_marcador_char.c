@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Crivo_de_Eratostenes_marcador_char.h"
+#include "../headers/Crivo_de_Eratostenes_marcador_char.h"
 
 #define MARCADO 'm'
 #define DESMARCADO 'd'

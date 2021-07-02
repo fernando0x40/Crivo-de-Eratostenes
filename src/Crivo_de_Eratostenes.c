@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Crivo_de_Eratostenes.h"
+#include "../headers/Crivo_de_Eratostenes.h"
 
 #define MARCADO 123
 #define DESMARCADO 456

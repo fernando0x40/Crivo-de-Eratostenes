@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "Crivo_de_Eratostenes.h"
+#include "../headers/Crivo_de_Eratostenes.h"
 
 int main(int argc, char const *argv[]) {
   unsigned int N = 1;
-  // printf("Digite o número N para o qual se quer encontrar todos os primos menores ou iguais a N:\n");
+  printf("Digite o número N para o qual se quer encontrar todos os primos menores ou iguais a N:\n");
   scanf("%d",&N);
   unsigned int* lista_numeros = cria_lista(N);
   unsigned int i = 2;
@@ -15,7 +15,7 @@ int main(int argc, char const *argv[]) {
     }
     i = proximo_primo_na_lista(i, N, lista_numeros);
   }
-  // imprime_primos_na_lista(N, lista_numeros);
+  imprime_primos_na_lista(N, lista_numeros);
   free(lista_numeros);
   return 0;
 }
