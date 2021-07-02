@@ -1,0 +1,29 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+main	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/cliente_Crivo_de_Eratostenes.c	/^int main(int argc, char const *argv[]) {$/;"	function	line:5	signature:(int argc, char const *argv[])
+MARCADO	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes.c	/^#define MARCADO /;"	macro	line:5	file:
+DESMARCADO	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes.c	/^#define DESMARCADO /;"	macro	line:6	file:
+cria_lista	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes.c	/^unsigned int* cria_lista(unsigned int final){$/;"	function	line:8	signature:(unsigned int final)
+marca_multiplos	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes.c	/^void marca_multiplos(unsigned int numero, unsigned int final, unsigned int* lista){$/;"	function	line:16	signature:(unsigned int numero, unsigned int final, unsigned int* lista)
+proximo_primo_na_lista	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes.c	/^unsigned int proximo_primo_na_lista(unsigned int primo_atual, unsigned int final, unsigned int* lista){$/;"	function	line:24	signature:(unsigned int primo_atual, unsigned int final, unsigned int* lista)
+imprime_primos_na_lista	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes.c	/^void imprime_primos_na_lista(unsigned int final, unsigned int* lista){$/;"	function	line:34	signature:(unsigned int final, unsigned int* lista)
+CRIVO_DE_ERASTOTENES	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes.h	/^#define CRIVO_DE_ERASTOTENES$/;"	macro	line:2
+main	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/teste.c	/^int main(int argc, char const *argv[]) {$/;"	function	line:4	signature:(int argc, char const *argv[])
+MARCADO	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_bit.c	/^#define MARCADO /;"	macro	line:5	file:
+DESMARCADO	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_bit.c	/^#define DESMARCADO /;"	macro	line:6	file:
+cria_lista	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_bit.c	/^unsigned int* cria_lista(unsigned int final){$/;"	function	line:8	signature:(unsigned int final)
+marca_multiplos	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_bit.c	/^void marca_multiplos(unsigned int numero, unsigned int final, unsigned int* lista){$/;"	function	line:16	signature:(unsigned int numero, unsigned int final, unsigned int* lista)
+proximo_primo_na_lista	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_bit.c	/^unsigned int proximo_primo_na_lista(unsigned int primo_atual, unsigned int final, unsigned int* lista){$/;"	function	line:24	signature:(unsigned int primo_atual, unsigned int final, unsigned int* lista)
+imprime_primos_na_lista	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_bit.c	/^void imprime_primos_na_lista(unsigned int final, unsigned int* lista){$/;"	function	line:34	signature:(unsigned int final, unsigned int* lista)
+MARCADO	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_char.c	/^#define MARCADO /;"	macro	line:5	file:
+DESMARCADO	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_char.c	/^#define DESMARCADO /;"	macro	line:6	file:
+cria_lista	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_char.c	/^unsigned int* cria_lista(unsigned int final){$/;"	function	line:8	signature:(unsigned int final)
+marca_multiplos	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_char.c	/^void marca_multiplos(unsigned int numero, unsigned int final, unsigned int* lista){$/;"	function	line:16	signature:(unsigned int numero, unsigned int final, unsigned int* lista)
+proximo_primo_na_lista	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_char.c	/^unsigned int proximo_primo_na_lista(unsigned int primo_atual, unsigned int final, unsigned int* lista){$/;"	function	line:24	signature:(unsigned int primo_atual, unsigned int final, unsigned int* lista)
+imprime_primos_na_lista	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_char.c	/^void imprime_primos_na_lista(unsigned int final, unsigned int* lista){$/;"	function	line:34	signature:(unsigned int final, unsigned int* lista)
+CRIVO_DE_ERASTOTENES_MARCADOR_CHAR	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_char.h	/^#define CRIVO_DE_ERASTOTENES_MARCADOR_CHAR$/;"	macro	line:2
+CRIVO_DE_ERASTOTENES_MARCADOR_BIT	/home/fernando/Documentos/Estrutura de Dados 2/Lab 1/src/Crivo_de_Eratostenes_marcador_bit.h	/^#define CRIVO_DE_ERASTOTENES_MARCADOR_BIT$/;"	macro	line:2
