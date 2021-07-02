@@ -25,9 +25,6 @@ cliente_Crivo_de_Eratostenes_char.o: src/cliente_Crivo_de_Eratostenes_char.c
 cliente_Crivo_de_Eratostenes_bit.o: src/cliente_Crivo_de_Eratostenes_bit.c
 	gcc -o bin/cliente_Crivo_de_Eratostenes_bit.o src/cliente_Crivo_de_Eratostenes_bit.c -c
 
-backup:
-
-
 clean:
 	make backup
 	rm -rf bin/* crivo headers/*.gch
